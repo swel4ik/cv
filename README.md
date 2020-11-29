@@ -1,1 +1,1 @@
-# cv
+# Computer vision project
